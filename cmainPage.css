@@ -1,0 +1,29 @@
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html, body {
+            height: 100%;
+            /*overflow: hidden; */
+            background-color: #FDFDFE;
+        }
+
+        .headerContainer {
+            width: 100%;
+            height: 70px;
+            background-color: #1E1DFE;
+        }
+
+        .homeButtonContainer {
+            width: 100%;
+            height: calc(100vh - 70px);
+        }
+
+        .homeButtonContainer svg {
+            width: 1011px;
+            height: 45px;
+            fill: #3232F3;
+            margin-left: 314px; 
+        }
