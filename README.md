@@ -10,13 +10,14 @@ A web-based portal designed for educational and reference purposes on environmen
 
 🧠 Review Materials: Downloadable law reviewers and infographics.
 
+
 🔒 Admin Panel (optional): Manage quiz questions, results, and content updates.
 
 ⚙️ Built With:
 Frontend: HTML, CSS, JavaScript (or optionally React/Vue)
 
-Backend: Node.js / PHP / Firebase (depending on your tech stack)
+Backend: Node.js / Express
 
-Database: Firebase / MongoDB / MySQL
+Database: Postgre
 
 Deployment: GitHub Pages / Netlify / Vercel
