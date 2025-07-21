@@ -28,3 +28,4 @@ html, body {
     width: min(65vw, 900px); /* 80% of viewport width, max 1011px */
     height: auto; /* Maintain aspect ratio */
     fill: #3232F3; 
+}
